@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Quote from './components/Quote'
+import Quote from './components/Quote/Quote'
+import LanguageProvider from './components/LanguageProvider/LanguageProvider'
 
 function App() {
   return (
